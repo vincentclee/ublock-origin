@@ -1,0 +1,245 @@
+! 7/12/2019 http://rlsbb.ru
+rlsbb.ru##.information
+rlsbb.ru###text-2 > .sidebarbox
+rlsbb.ru###text-8 > .sidebarbox
+rlsbb.ru###text-3 > .sidebarbox > .widgettitle
+rlsbb.ru##.textwidget > p
+
+proxybb.com##.information
+proxybb.com###text-2 > .sidebarbox
+proxybb.com###text-8 > .sidebarbox
+proxybb.com###text-3 > .sidebarbox > .widgettitle
+proxybb.com##.textwidget > p
+
+! 7/12/2019 https://www.facebook.com
+www.facebook.com##.k_tff63jauh.pagelet > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
+! 9/4/2019 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+
+! 9/28/2019 https://github.com
+github.com##.flash-error.js-notice.flash-full.flash
+
+! https://www.youtube.com
+www.youtube.com##.ytp-ce-element
+
+! 10/14/2019 https://www.google.com
+||www.google.com/logos/doodles/*$image
+
+! 10/28/2019 https://mail.yahoo.com
+mail.yahoo.com##._yb_rqbm1._yb_84740
+
+! https://www.reddit.com/r/uBlockOrigin/comments/d7s5zp/how_to_block_trending_on_yahoo_homepage_popups_in/
+mail.yahoo.com##div[data-test-id="popover-content"]:has(div[data-test-id="needToKnowNewsCue"])
+
+! https://www.reddit.com/r/uBlockOrigin/comments/9d3t28/block_videos_in_empty_yahoo_mail_mailboxes/
+mail.yahoo.com##[id*=player-container]
+mail.yahoo.com##[data-test-id*=video-container]
+mail.yahoo.com##[data-test-id*=efv-subheader]
+
+! blockadblock.com
+@@||musicpremieres.com^$generichide
+musicpremieres.com##+js(bab-defuser.js)
+
+! 1/7/2020 https://www.linkedin.com
+!www.linkedin.com##.msg-overlay-bubble-header
+!www.linkedin.com##.msg-overlay-list-bubble__content--scrollable.msg-overlay-list-bubble__content
+!www.linkedin.com###ember561
+
+@@||photobucket.com/resources/common/js/ads.js$script,1p
+
+! 3/18/2020 https://www.google.com coronavirus
+www.google.com##.szppmdbYutt__middle-slot-promo
+
+! 4/1/2020 https://mail.yahoo.com
+mail.yahoo.com##._yb_j4bq8
+
+! 4/9/2020 http://rlsbb.ru
+||img.rlsbb.to/images/hbRqjX.gif$image
+
+! 4/12/2020 https://www.linkedin.com
+www.linkedin.com###ember219
+
+! 5/9/2020 https://s239.photobucket.com
+s239.photobucket.com###submitButtonWrapper
+
+! 5/21/2020 https://www.google.com
+||www.google.com/logos/2020/mbira/r3/initial-sprite.png$image
+www.google.com###lga
+google.com###hplogo
+
+! 6/12/2020 https://www.amazon.com
+www.amazon.com###nav-upnav
+
+! 6/23/2020 https://www.amazon.com
+www.amazon.com###ape_Detail_desktop-detail-ilm_desktop_placement
+
+jwcdn.com
+content.jwplatform.com
+
+! 2020-09-20 https://www.usatoday.com
+www.usatoday.com##.gnt_em_vp_c
+
+! 2020-10-16 google also searched for
+#https://www.google.*/xjs/*
+google.*##div[id^="eob"]
+google.*##.exp-outline
+
+! 2020-11-29 https://www.instagram.com
+www.instagram.com##.enqOc.ByB5K
+
+! 2020-12-26 http://rlsbb.ru
+||uploadgig.com/static_/xmas.jpg$image
+
+! 2021-01-01 https://www.amazon.com
+www.amazon.com###percolate-ui-ilm_div
+
+! 2021-01-01 http://rlsbb.ru
+||uploadgig.com/static_/2021ny.jpg$image
+rlsbb.ru###text-2
+
+! Block Reddit 'Top Broadcast Now' & 'Top livestream'
+reddit.com##a[href^="/rpan/"]>h3:has-text(/Top (livestream|broadcast)/):nth-ancestor(7)
+
+! 2021-07-28 https://www.google.com
+||www.google.com/logos/2020/kitsune/rc6/CTA-OffsetPlayButtonFrame1.png$image
+
+@@||itopmusic.org^$generichide
+itopmusic.org##+js(bab-defuser.js)
+
+! 2021-09-29 http://rlsbb.ru
+rlsbb.ru###text-3
+
+! 2021-10-05 http://rlsbb.ru
+rlsbb.ru##aside.widget_text.widget:nth-of-type(1)
+
+! 2021-10-10 http://rlsbb.ru
+rlsbb.ru###post-10082 > .post-content-wrapper-archive.post-content-wrapper > .entry-data-wrapper > .entry-summary .aligncenter
+
+! 2021-11-27 https://www.instagram.com
+www.instagram.com##._8UZ6e
+
+! 2022-01-16 https://www.amazon.com
+www.amazon.com###rightRail
+www.amazon.com##.nav-flyout-sidePanel
+www.amazon.com###rightRailright-rail
+
+
+!reddit.com##a[href^="/rpan/"]>h3:has-text(/Popular on Reddit right now/):nth-ancestor(7)
+
+! 2022-02-04 https://www.amazon.com
+www.amazon.com##.js-yo-right-rail.right-rail
+
+! 2022-05-07 https://rlsbb.ru
+rlsbb.ru##center > p
+rlsbb.ru##aside.widget_text.widget > .widget-title
+
+! 2022-05-13 https://comment.rlsbb.ru
+comment.rlsbb.ru###text-10 > .textwidget > center
+
+! 2022-07-08 https://mail.yahoo.com
+!mail.yahoo.com##.I_ZnwrMC.p_R.o_v.D_F > .ek_BB.D_F
+
+! 2022-07-10 https://www.amazon.com
+www.amazon.com###live-flagship-root > div
+
+! 2022-08-03 https://mail.yahoo.com
+mail.yahoo.com##.I_ZnwrMC.p_R.o_v.D_F
+
+! 2022-08-26 https://cortlandduluth.activebuilding.com
+cortlandduluth.activebuilding.com##.badge-danger.badge
+
+! 2022-10-29 https://weather.com
+weather.com##.DaybreakLargeScreen--regionSidebar--20oS9.regionSidebar.region-sidebar
+
+! 2022-11-13 https://www.amazon.com
+www.amazon.com###recsWidget
+www.amazon.com###rhf-shoveler
+
+! 2022-11-26 https://www.newegg.com
+www.newegg.com##.has-side-banner.row > .row-side
+
+! 2022-12-04 https://mail.google.com
+mail.google.com##.oy8Mbf.nH.anZ.a6o.BaIAZe.WR.aeN
+
+! 2022-12-04 https://real-debrid.com
+real-debrid.com##[href*="./streaming-"]
+real-debrid.com##.link-generated > br
+||fcdn.real-debrid.com/0819/images/play.png$image
+
+! 2022-12-15 https://twitter.com
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(6)
+
+! 2022-12-20 https://www.tmz.com
+www.tmz.com###jwplayer-video-player-0ec464b4-4c5b-45f4-a850-1ceb50d4093c-81882123 > div > .fullscreen.floating.video__error-modal
+
+! 2023-01-01 https://us-east-2.turbotaxonline.intuit.com
+us-east-2.turbotaxonline.intuit.com##.PHHz4q7pIOrK8WuOhPXqZQ\=\=
+
+! 2023-02-26 https://mail.yahoo.com
+mail.yahoo.com##._yb_86lbc._yb_19nsz._yb_1h5ub
+
+! 2023-03-03 https://us-east-2.turbotaxonline.intuit.com
+us-east-2.turbotaxonline.intuit.com##.jcGd9raT0BiAa1RaM7iKWg\=\=
+
+! 2023-04-06 https://comment.rlsbb.ru
+comment.rlsbb.ru##[href^="https://rlsbb.to/link.php"]
+
+! 2023-04-06 https://search.rlsbb.ru
+rlsbb.ru###text-10
+rlsbb.ru###text-5
+
+www.reddit.com##[id^="popup-"]
+
+! 2023-04-28 https://twitter.com - Messages
+!twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n
+
+*.intercomcdn.com
+*.tawk.to
+*.livechatinc.com
+*.olark.com
+*.onesignal.com
+*.freshdesk.com
+*.zopim.com
+*.freshchat.com
+*.novocall.co
+*.tidio.co
+*.driftt.com
+*.zohostatic.com
+*.hubspot.com
+*.purechat.com
+
+! 2023-05-25 https://twitter.com - Twitter Blue
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(7)
+
+! 2023-06-05 https://weather.com
+weather.com###WxuPromoDriver-sidebar-721f1a1a-460a-422c-a0db-db83a582b227
+weather.com###WxuContentMedia-sidebar-acfad864-c091-4901-9876-18d81b2a1881
+
+! 2023-06-12 https://twitter.com
+twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
+
+! 2023-06-22 https://twitter.com
+twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(8)
+
+! 2023-06-25 https://mail.yahoo.com
+mail.yahoo.com##.I_ZkbNhI.P_1WS4Th.d_3z5BY.H_6Iwco.W_6D6F.k_w
+
+! 2023-06-28 https://weather.com
+weather.com###WxuSmartMessage-sidebar-30c2065b-b620-4df7-96b2-56b882a4ef9a
+
+! 2023-07-08 https://www.amazon.com
+www.amazon.com##.maple-banner
+www.amazon.com##.copilot-secure-display
+www.amazon.com###sc-secondary-list
+
+*.accessibe.com
+*.acsbapp.com
+*.bfhxivpij.com
+*.formilla.com
+*.jwplayer.com
+*.livechatinc.com
+*.medallia.com
+*.xthizbdwgebzqf.com
+*.yxhkonfmbe.com
