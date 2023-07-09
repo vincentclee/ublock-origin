@@ -347,3 +347,88 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-rendere
 www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-item-section-renderer)
 ! YT Sidebar - Hide Shorts
 www.youtube.com###related ytd-compact-video-renderer [overlay-style="SHORTS"]:upward(ytd-compact-video-renderer)
+
+! 12/30/2019 https://www.tomshardware.com
+www.tomshardware.com##.jw-reset.jw-video
+www.tomshardware.com##.sticky-player-background
+
+! 1/23/2020 https://legacy.alks.coxautoinc.com
+legacy.alks.coxautoinc.com##.btn-default.btn
+
+! 5/18/2020 https://trello.com
+trello.com##._32SBWPAMFn2zR_.mBpHYwCdk1ETAw._2ddgKgxwLGcW0X
+
+! 5/21/2020 https://trello.com
+trello.com###popover-boundary > .js-react-root
+
+! 6/16/2020 https://www.runscope.com
+www.runscope.com##._bzf50
+
+! 7/16/2020 https://cloud.aquasec.com
+cloud.aquasec.com###launcher-frame
+
+! 2021-01-14 https://trello.com
+trello.com###popover-boundary > div > div > .js-react-root > div
+
+! 2021-02-08 https://coxauto.service-now.com
+coxauto.service-now.com##.m-b.btn-.btn
+
+! 2021-02-09 https://trello.com
+!trello.com##._3_IIx3qL7PLWV0._3RNBQlOIcxs_oF._3w-TfQKd6Vum9J
+
+! 2021-04-05 https://trello.com
+trello.com##.react-banners
+
+! 2021-05-17 https://ghe.coxautoinc.com
+ghe.coxautoinc.com##.flash-warn.js-notice.flash-full.flash
+
+! google doodles
+google.com###lga
+google.com###hplogo
+google.com###doodle
+
+! 2021-11-11 RE's Bento Jenkins upgrade nagware
+manheim.com###view-message
+
+! 2022-03-09 https://ghe.coxautoinc.com
+ghe.coxautoinc.com###mandatory-message-dialog
+ghenp.coxautoinc.com###mandatory-message-dialog
+
+! 2022-07-05 https://coxauto.service-now.com
+coxauto.service-now.com##.announcement-container
+
+! 2022-08-11 https://weather.com
+weather.com##.DaybreakLargeScreen--regionSidebar--2kFGB.regionSidebar.region-sidebar
+
+! 2022-09-22 https://www.tmz.com
+www.tmz.com##.fullscreen.floating.video__error-modal
+
+! 2022-10-31 https://ghe.coxautoinc.com
+ghe.coxautoinc.com##.clearfix.js-pinned-items-reorder-container.p-responsive.container-lg > .js-pinned-items-reorder-container
+
+# google search results favicon
+google.com##.H9lube
+
+! 2023-04-19 https://www.linkedin.com
+www.linkedin.com##.msg-overlay-container-reflow.msg-overlay-container
+
+! 2023-04-25 https://www.nytimes.com
+www.nytimes.com###gateway-content
+
+! 2023-05-23 https://weather.com
+weather.com###WxuContentMedia-sidebar-acfad864-c091-4901-9876-18d81b2a1881
+weather.com###WxuPromoDriver-sidebar-721f1a1a-460a-422c-a0db-db83a582b227
+weather.com##.DaybreakLargeScreen--regionSidebar--20oS9.regionSidebar.region-sidebar
+
+! 2023-06-07 https://www.iclarified.com
+www.iclarified.com##.shelf_recent_container
+www.iclarified.com##.shelf_tutorials_slider
+www.iclarified.com##.shelf_deals_slider
+
+! 2023-06-23 https://weather.com
+weather.com###WxuSmartMessage-sidebar-30c2065b-b620-4df7-96b2-56b882a4ef9a
+
+! 2023-07-07 https://weather.com
+!||weather.com/daybreak-home/assets/7931.WxuPrivacyConsentModal.ffcacc5ffa216724d743.js$script,1p
+!||weather.com/hourly/assets/7931.WxuPrivacyConsentModal.c666945a3b7eb42ec9a5.js$script,1p
+||weather.com/*/assets/*.WxuPrivacyConsentModal.*.js$script,1p
