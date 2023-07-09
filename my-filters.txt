@@ -1,3 +1,11 @@
+! Title: Vincent Lee's Filters
+! Expires: 1 day (update frequency)
+! Description: My filters
+! Homepage: https://github.com/vincentclee/ublock-origin
+! License: 
+! Last modified: 
+! Version: 
+
 ! 7/12/2019 http://rlsbb.ru
 rlsbb.ru##.information
 rlsbb.ru###text-2 > .sidebarbox
