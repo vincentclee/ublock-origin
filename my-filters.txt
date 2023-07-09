@@ -243,3 +243,99 @@ www.amazon.com###sc-secondary-list
 *.medallia.com
 *.xthizbdwgebzqf.com
 *.yxhkonfmbe.com
+
+! 7/12/2019 http://rlsbb.ru
+rlsbb.ru##.information
+rlsbb.ru###text-2 > .sidebarbox
+rlsbb.ru###text-8 > .sidebarbox
+rlsbb.ru###text-3 > .sidebarbox > .widgettitle
+
+! 7/12/2019 https://www.facebook.com
+www.facebook.com##.k_tff63jauh.pagelet > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
+! 7/29/2019 http://rlsbb.ru
+rlsbb.ru##.textwidget > p
+
+! 9/4/2019 https://www.amazon.com
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+
+! 9/28/2019 https://github.com
+github.com##.flash-error.js-notice.flash-full.flash
+
+! https://www.youtube.com
+!www.youtube.com##.ytp-ce-element
+
+! https://www.reddit.com/r/youtube/comments/agqy3j/how_to_remove_latest_youtube_posts_from/
+! ##YTD-POST-RENDERER[class="style-scope yt-horizontal-list-renderer"]
+!www.youtube.com##ytd-item-section-renderer:has(span:has-text(/Latest YouTube posts/i))
+
+
+# https://www.reddit.com/r/uBlockOrigin/comments/bor35g/adguard_annoyances_filter_blocks_youtube/
+! START: YouTube annoyances
+! YouTube promo annotations
+youtube.com##.video-annotations
+youtube.com##.annotation.iv-promo
+youtube.com##.annotation.iv-branding
+youtube.com##.iv-promo-video
+youtube.com##.ytp-cards-teaser
+! YouTube video annotations
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-pause-overlay
+! https://github.com/AdguardTeam/AdguardFilters/issues/28271#issuecomment-454325128
+youtube.com##.ytp-paid-content-overlay
+! https://forum.adguard.com/index.php?threads/11119/
+youtube.com###yt-lang-alert-container
+! top right corner info
+youtube.com##.ytp-cards-button-icon-default
+! END: YouTube annoyances
+
+! fast forward and rewind overlay
+youtube.com##.ytp-doubletap-ui
+youtube.com##.ytp-doubletap-ui-legacy
+youtube.com##.ytp-time-seeking
+
+
+! Youtube China Virus banner
+www.youtube.com###clarify-box
+
+youtube.com##.ytp-gradient-bottom
+
+# full screen
+youtube.com##.ytp-watch-later-button
+youtube.com##.ytp-gradient-top
+youtube.com##.ytp-fullerscreen-edu-button
+
+! 2023-01-22 https://www.youtube.com
+www.youtube.com###offer-module
+
+! 2023-01-27 https://www.youtube.com
+www.youtube.com###voice-search-button
+
+! 2023-01-01 https://us-east-2.turbotaxonline.intuit.com
+us-east-2.turbotaxonline.intuit.com##.PHHz4q7pIOrK8WuOhPXqZQ\=\=
+
+! 2023-03-03 https://us-east-2.turbotaxonline.intuit.com
+us-east-2.turbotaxonline.intuit.com##.jcGd9raT0BiAa1RaM7iKWg\=\=
+
+! 2023-03-06 https://us-east-2.turbotaxonline.intuit.com
+us-east-2.turbotaxonline.intuit.com##.undefined.N4QzGgQtm5N0E6dM8LuAqg\=\=.Gf8T8syVG19citE7xFiVZg\=\=
+
+youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="Recommended Primetime movies"]:upward(ytd-rich-section-renderer)
+
+! YT Homepage - Hide the Shorts section
+youtube.com##[is-shorts]
+! YT Menu - Hide the Shorts button
+www.youtube.com###guide [title="Shorts"], .ytd-mini-guide-entry-renderer[title="Shorts"]
+! YT Search - Hide Shorts
+www.youtube.com##ytd-search ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-video-renderer)
+! YT Search and Channels - Hide the Shorts sections
+www.youtube.com##ytd-reel-shelf-renderer
+! YT Channels - Hide the Shorts tab
+!www.youtube.com##ytd-browse[page-subtype="channels"] [role="tab"]:nth-of-type(3):has-text(Shorts)
+! YT Subscriptions - Hide Shorts - Grid View
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-grid-video-renderer [overlay-style="SHORTS"]:upward(ytd-grid-video-renderer)
+! YT Subscriptions - Hide Shorts - List View
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer [overlay-style="SHORTS"]:upward(ytd-item-section-renderer)
+! YT Sidebar - Hide Shorts
+www.youtube.com###related ytd-compact-video-renderer [overlay-style="SHORTS"]:upward(ytd-compact-video-renderer)
