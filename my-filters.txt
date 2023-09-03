@@ -158,9 +158,6 @@ mail.yahoo.com##.I_ZnwrMC.p_R.o_v.D_F
 ! 2022-08-26 https://cortlandduluth.activebuilding.com
 cortlandduluth.activebuilding.com##.badge-danger.badge
 
-! 2022-10-29 https://weather.com
-weather.com##.DaybreakLargeScreen--regionSidebar--20oS9.regionSidebar.region-sidebar
-
 ! 2022-11-13 https://www.amazon.com
 www.amazon.com###recsWidget
 www.amazon.com###rhf-shoveler
@@ -221,10 +218,6 @@ www.reddit.com##[id^="popup-"]
 ! 2023-05-25 https://twitter.com - Twitter Blue
 twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1habvwh.css-1dbjc4n.css-18t94o4.css-4rbku5:nth-of-type(7)
 
-! 2023-06-05 https://weather.com
-weather.com###WxuPromoDriver-sidebar-721f1a1a-460a-422c-a0db-db83a582b227
-weather.com###WxuContentMedia-sidebar-acfad864-c091-4901-9876-18d81b2a1881
-
 ! 2023-06-12 https://twitter.com
 twitter.com##.r-1f1sjgu.r-ymttw5.r-uaa2di.r-eqz5dr.r-1habvwh.css-1dbjc4n
 
@@ -233,9 +226,6 @@ twitter.com##a.r-13qz1uu.r-oyd9sg.r-1ny4l3l.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt2
 
 ! 2023-06-25 https://mail.yahoo.com
 mail.yahoo.com##.I_ZkbNhI.P_1WS4Th.d_3z5BY.H_6Iwco.W_6D6F.k_w
-
-! 2023-06-28 https://weather.com
-weather.com###WxuSmartMessage-sidebar-30c2065b-b620-4df7-96b2-56b882a4ef9a
 
 ! 2023-07-08 https://www.amazon.com
 www.amazon.com##.maple-banner
@@ -397,9 +387,6 @@ ghenp.coxautoinc.com###mandatory-message-dialog
 ! 2022-07-05 https://coxauto.service-now.com
 coxauto.service-now.com##.announcement-container
 
-! 2022-08-11 https://weather.com
-weather.com##.DaybreakLargeScreen--regionSidebar--2kFGB.regionSidebar.region-sidebar
-
 ! 2022-09-22 https://www.tmz.com
 www.tmz.com##.fullscreen.floating.video__error-modal
 
@@ -415,20 +402,17 @@ www.linkedin.com##.msg-overlay-container-reflow.msg-overlay-container
 ! 2023-04-25 https://www.nytimes.com
 www.nytimes.com###gateway-content
 
-! 2023-05-23 https://weather.com
-weather.com###WxuContentMedia-sidebar-acfad864-c091-4901-9876-18d81b2a1881
-weather.com###WxuPromoDriver-sidebar-721f1a1a-460a-422c-a0db-db83a582b227
-weather.com##.DaybreakLargeScreen--regionSidebar--20oS9.regionSidebar.region-sidebar
-
 ! 2023-06-07 https://www.iclarified.com
 www.iclarified.com##.shelf_recent_container
 www.iclarified.com##.shelf_tutorials_slider
 www.iclarified.com##.shelf_deals_slider
 
-! 2023-06-23 https://weather.com
-weather.com###WxuSmartMessage-sidebar-30c2065b-b620-4df7-96b2-56b882a4ef9a
-
 ! 2023-07-07 https://weather.com
-!||weather.com/daybreak-home/assets/7931.WxuPrivacyConsentModal.ffcacc5ffa216724d743.js$script,1p
-!||weather.com/hourly/assets/7931.WxuPrivacyConsentModal.c666945a3b7eb42ec9a5.js$script,1p
 ||weather.com/*/assets/*.WxuPrivacyConsentModal.*.js$script,1p
+weather.com##.ab-in-app-message
+weather.com##[class^="SmartMessageComponent-"]
+weather.com##[id^="WxuContentMedia-sidebar-"]
+weather.com##[id^="WxuSmartMessage-sidebar-"]
+weather.com##[id^="WxuPromoDriver-sidebar-"]
+weather.com##[class^="Footer--socialLogos-"]
+weather.com##.regionSidebar.region-sidebar[class*="DaybreakLargeScreen--regionSidebar--"]
