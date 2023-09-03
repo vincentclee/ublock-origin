@@ -416,3 +416,7 @@ weather.com##[id^="WxuSmartMessage-sidebar-"]
 weather.com##[id^="WxuPromoDriver-sidebar-"]
 weather.com##[class^="Footer--socialLogos-"]
 weather.com##.regionSidebar.region-sidebar[class*="DaybreakLargeScreen--regionSidebar--"]
+
+! 2023-09-03 https://www.amazon.com
+www.amazon.com###navbar > .nav-sprite
+www.amazon.com###nav-progressive-subnav
