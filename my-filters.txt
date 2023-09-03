@@ -417,6 +417,13 @@ weather.com##[id^="WxuPromoDriver-sidebar-"]
 weather.com##[class^="Footer--socialLogos-"]
 weather.com##.regionSidebar.region-sidebar[class*="DaybreakLargeScreen--regionSidebar--"]
 
+! 2023-07-11 https://downloader.la
+||downloader.la/viewer$generichide,1p
+
+! 2023-07-12 https://www.amazon.com
+www.amazon.com##.recommendation-widget.a-section
+www.amazon.com##.aod-recommendations-widget-properties.a-spacing-none.a-section
+
 ! 2023-09-03 https://www.amazon.com
 www.amazon.com###navbar > .nav-sprite
 www.amazon.com###nav-progressive-subnav
