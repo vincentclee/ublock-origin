@@ -427,3 +427,18 @@ www.amazon.com##.aod-recommendations-widget-properties.a-spacing-none.a-section
 ! 2023-09-03 https://www.amazon.com
 www.amazon.com###navbar > .nav-sprite
 www.amazon.com###nav-progressive-subnav
+
+! 2023-08-10 https://ghe.coxautoinc.com
+ghe.coxautoinc.com##.mb-4.Box
+
+! 2023-09-07 https://one.newrelic.com
+one.newrelic.com##.AAT4AC-wnd-StackItem--shrink.AAT4AC-wnd-StackItem
+
+! 2023-09-25 https://rally1.rallydev.com
+rally1.rallydev.com##.chr-NotificationAggregator
+
+! 2023-10-09 Reddit Premium
+reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(1)
+reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(2)
+reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(3)
+reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(4)
