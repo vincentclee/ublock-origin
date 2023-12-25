@@ -451,3 +451,6 @@ twitter.com##[aria-label="Subscribe to Premium"]
 
 ! 2023-11-17 https://www.amazon.com
 www.amazon.com##.a-span-last.a-span5.a-column > .celwidget
+
+! 2023-12-22 https://twitter.com
+twitter.com##a[aria-label="Grok"]
