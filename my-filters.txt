@@ -442,3 +442,12 @@ reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(1)
 reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(2)
 reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(3)
 reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(4)
+
+! 2023-09-06 https://twitter.com
+twitter.com##a[aria-label="Verified"]
+twitter.com##a[aria-label="Direct Messages"]
+twitter.com##a[aria-label="Premium"]
+twitter.com##[aria-label="Subscribe to Premium"]
+
+! 2023-11-17 https://www.amazon.com
+www.amazon.com##.a-span-last.a-span5.a-column > .celwidget
