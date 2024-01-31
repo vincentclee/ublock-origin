@@ -454,3 +454,7 @@ www.amazon.com##.a-span-last.a-span5.a-column > .celwidget
 
 ! 2023-12-22 https://twitter.com
 twitter.com##a[aria-label="Grok"]
+
+! 2024-01-31 aws analytics
+*.aws.dev
+*.aws.a2z.com
