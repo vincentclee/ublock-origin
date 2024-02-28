@@ -457,4 +457,4 @@ twitter.com##a[aria-label="Grok"]
 
 ! 2024-01-31 aws analytics
 *.aws.dev
-*.aws.a2z.com
+!*.aws.a2z.com
