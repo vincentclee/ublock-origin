@@ -437,6 +437,12 @@ one.newrelic.com##.AAT4AC-wnd-StackItem--shrink.AAT4AC-wnd-StackItem
 ! 2023-09-25 https://rally1.rallydev.com
 rally1.rallydev.com##.chr-NotificationAggregator
 
+! 2024-01-28 youtube full screen share button
+www.youtube.com##.ytp-share-button
+
+! 2024-03-03
+youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="Playables on YouTube"]:upward(ytd-rich-section-renderer)
+
 ! 2023-10-09 Reddit Premium
 reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(1)
 reddit.com##div[data-testid="frontpage-sidebar"] > div:nth-child(2)
