@@ -464,3 +464,9 @@ www.youtube.com##.ytp-share-button
 
 ! 2024-03-03
 youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="Playables on YouTube"]:upward(ytd-rich-section-renderer)
+
+! 2024-03-06 https://ghe.coxautoinc.com
+ghe.coxautoinc.com##.left-0.right-0.position-relative.Popover.js-notice
+
+! 2024-03-06 https://www.linkedin.com
+www.linkedin.com##.mb2.artdeco-card.launchpad-v2
