@@ -489,3 +489,12 @@ www.youtube.com##ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope > .y
 
 ! 2024-03-28 https://www.youtube.com
 youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="YouTube Playables"]:upward(ytd-rich-section-renderer)
+
+! 2024-04-10 https://www.reddit.com
+www.reddit.com##recent-posts
+
+! 2023-12-31 https://www.amazon.com
+www.amazon.com###themed-banner-container
+
+! 2024-01-12 https://www.paypal.com
+www.paypal.com##.cw-honeyBanner__container
