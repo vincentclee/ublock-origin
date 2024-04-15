@@ -474,3 +474,18 @@ www.linkedin.com##.mb2.artdeco-card.launchpad-v2
 ! 2024-04-15 https://www.google.com
 www.google.com##html:style(overflow: visible !important)
 www.google.com##div[role="dialog"] span:has-text(/^See results closer to you\?$/):upward(7)
+
+! 2023-08-19 https://www.youtube.com
+www.youtube.com###middle-row
+
+! 2023-09-24 https://www.youtube.com
+www.youtube.com##ytd-clarification-renderer
+
+youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="Playables on YouTube"]:upward(ytd-rich-section-renderer)
+youtube.com##ytd-browse[page-subtype="home"] ytd-rich-shelf-renderer #title-text>#title:has-text(Latest YouTube posts):upward(ytd-rich-shelf-renderer)
+
+! 2024-03-17 https://www.youtube.com
+www.youtube.com##ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
+
+! 2024-03-28 https://www.youtube.com
+youtube.com##[page-subtype="home"] .ytd-rich-shelf-renderer[title="YouTube Playables"]:upward(ytd-rich-section-renderer)
