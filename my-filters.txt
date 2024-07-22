@@ -498,3 +498,18 @@ www.amazon.com###themed-banner-container
 
 ! 2024-01-12 https://www.paypal.com
 www.paypal.com##.cw-honeyBanner__container
+
+! 2024-03-25 https://mail.google.com
+mail.google.com##.qY.nH
+
+! 2024-05-17 https://v2.sportsurge.to
+sportsurge.to##^script:has-text(aclib)
+
+! Jul 1, 2024 https://x.com
+x.com##a[aria-label="Verified Orgs"]
+
+! Jul 15, 2024 https://x.com
+x.com##aside[aria-label="Showcase your best content with Highlights"]
+
+! Jul 16, 2024 https://www.google.com
+www.google.com##.U8K5Lc
