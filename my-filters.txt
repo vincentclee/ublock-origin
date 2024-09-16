@@ -513,3 +513,18 @@ x.com##aside[aria-label="Showcase your best content with Highlights"]
 
 ! Jul 16, 2024 https://www.google.com
 www.google.com##.U8K5Lc
+
+! 2023-10-02 https://secure.newegg.com
+secure.newegg.com##.floating-right-tools
+
+! 2024-03-11 https://www.amazon.com
+www.amazon.com##.widget-html-container
+
+! Aug 18, 2024 https://www.reddit.com
+reddit.com###reddit-trending-searches-partial-container
+
+! Aug 8, 2024 https://www.imdb.com
+www.imdb.com##.ipc-chip--on-base
+
+! Aug 18, 2024 https://www.youtube.com shorts
+www.youtube.com##.YtdRichGridGroupHostFirstColumn.YtdRichGridGroupHost
