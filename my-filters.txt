@@ -548,3 +548,6 @@ www.reddit.com##chat-channel-recommendations-wrapper
 ! Sep 13, 2024 https://mail.yahoo.com
 mail.yahoo.com###commerce_card_group_container
 mail.yahoo.com###card_group_container
+
+! Sep 21, 2024 https://x.com
+x.com##a[aria-label="Business"]
