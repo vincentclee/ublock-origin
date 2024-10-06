@@ -551,3 +551,9 @@ mail.yahoo.com###card_group_container
 
 ! Sep 21, 2024 https://x.com
 x.com##a[aria-label="Business"]
+
+! 2024-09-25 youtube chat reactions
+youtube.com###emoji-fountain
+
+! 2024-10-05 youtube fast forward & rewind
+youtube.com###ytp-doubletap-seek-info-container
