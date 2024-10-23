@@ -557,3 +557,18 @@ youtube.com###emoji-fountain
 
 ! 2024-10-05 youtube fast forward & rewind
 youtube.com###ytp-doubletap-seek-info-container
+
+! youtube - black top bar on videos (from gray)
+youtube.com##ytd-masthead[frosted-glass=without-chipbar] #background.ytd-masthead:style(background: black !important;)
+
+! Oct 17, 2024 https://www.youtube.com
+www.youtube.com##.style-default.ytd-masthead.style-scope
+www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+
+! Oct 19, 2024
+! remove pink fade from youtube playback progress bar
+youtube.com##.ytp-cairo-refresh-signature-moments .ytp-play-progress:style(background: #FF0000 !important;)
+youtube.com##ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signature-moments-web] #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
+
+! change color of youtube logo
+youtube.com###logo-icon > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape > div > svg > g:first-of-type > path:first-of-type:style(fill: #FF0000 !important;)
