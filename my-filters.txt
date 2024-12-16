@@ -572,3 +572,9 @@ youtube.com##ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signa
 
 ! change color of youtube logo
 youtube.com###logo-icon > .yt-spec-icon-shape.yt-icon.style-scope.yt-icon-shape > div > svg > g:first-of-type > path:first-of-type:style(fill: #FF0000 !important;)
+
+! Aug 28, 2024 https://www.reddit.com
+www.reddit.com##pdp-right-rail
+
+! Sep 25, 2024 https://www.reddit.com
+www.reddit.com##.left-sidebar
