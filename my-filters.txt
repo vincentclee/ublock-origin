@@ -581,3 +581,24 @@ www.reddit.com##.left-sidebar
 
 ! youtube scrubber dot
 youtube.com##.ytp-scrubber-button
+
+! 2024-02-06 https://itopmusic.org
+||itopmusics.com/wp-admin/admin-ajax.php$xhr,domain=itopmusic.org
+
+*.vitally.io
+
+! Sep 23, 2024 https://www.reddit.com
+www.reddit.com##reddit-recent-pages
+
+*.buymeacoffee.com
+
+! Oct 19, 2024 https://real-debrid.com
+real-debrid.com##.footer_legal
+
+! Nov 12, 2024 https://www.amazon.com
+www.amazon.com###nav-flyout-rufus
+
+*.trychameleon.com
+
+! 2024-12-26 wordpress sticky post
+rlsbb.ru##article#post-10082
