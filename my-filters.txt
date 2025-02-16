@@ -605,3 +605,12 @@ rlsbb.ru##article#post-10082
 
 ! Feb 6, 2025 https://www.reddit.com
 www.reddit.com##.mb-md.mx-md.flex.legal-links
+
+! Jan 4, 2025 https://www.youtube.com
+www.youtube.com##.ytp-suggested-action
+
+! Feb 13, 2025
+! Force red progress bar without pink fade
+youtube.com##.ytp-play-progress:style(background: #FF0000 !important;)
+youtube.com##.ytp-cairo-refresh-signature-moments .ytp-play-progress:style(background: #FF0000 !important;)
+youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
