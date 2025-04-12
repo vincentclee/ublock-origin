@@ -614,3 +614,6 @@ www.youtube.com##.ytp-suggested-action
 youtube.com##.ytp-play-progress:style(background: #FF0000 !important;)
 youtube.com##.ytp-cairo-refresh-signature-moments .ytp-play-progress:style(background: #FF0000 !important;)
 youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbnail-overlay-resume-playback-renderer:style(background: #FF0000 !important;)
+
+! Apr 4, 2025 https://www.youtube.com
+www.youtube.com###newness-dot
