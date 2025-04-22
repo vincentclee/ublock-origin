@@ -617,3 +617,28 @@ youtube.com##ytd-thumbnail-overlay-resume-playback-renderer #progress.ytd-thumbn
 
 ! Apr 4, 2025 https://www.youtube.com
 www.youtube.com###newness-dot
+
+! Jan 4, 2025 https://www.google.com
+www.google.com##promo-middle-slot
+
+! Feb 3, 2025 https://www.reddit.com
+www.reddit.com##.mb-md.mx-md.flex.legal-links
+
+! google search favicon
+google.com##.DDKf1c
+
+! Mar 2, 2025 https://dashboard.web.vanguard.com ticker
+dashboard.web.vanguard.com##vg-vgn-nav > .hydrated > .hydrated
+
+! Mar 18, 2025 https://post.rlsbb.ru
+post.rlsbb.ru###post-wrapper > .aligncenter
+post.rlsbb.ru###post-wrapper > h2
+
+! Apr 18, 2025 https://x.com
+x.com##.r-3pj75a.r-1mmae3n.r-1ssbvtb.r-rs99b7.r-1q9bdsx.r-jxzhtn.r-14lw9ot.r-1habvwh.css-175oi2r
+
+! 2024-02-13 https://gitlab.com
+gitlab.com##.auto-devops-callout
+
+! Dec 11, 2024 https://www.youtube.com
+www.youtube.com##ytd-miniplayer.ytd-app.style-scope
