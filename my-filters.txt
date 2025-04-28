@@ -642,3 +642,9 @@ gitlab.com##.auto-devops-callout
 
 ! Dec 11, 2024 https://www.youtube.com
 www.youtube.com##ytd-miniplayer.ytd-app.style-scope
+
+! subscribe to twitter premium button
+x.com##[data-testid="sidebarColumn"] [data-testid="super-upsell-UpsellCardRenderProperties"]
+
+! legal links
+x.com##[data-testid="sidebarColumn"] [aria-label="Footer"]
