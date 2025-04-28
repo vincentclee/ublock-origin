@@ -648,3 +648,6 @@ x.com##[data-testid="sidebarColumn"] [data-testid="super-upsell-UpsellCardRender
 
 ! legal links
 x.com##[data-testid="sidebarColumn"] [aria-label="Footer"]
+
+! Twitter/X - Clean Timelines - See Only Tweets/Posts, No Inserts
+twitter.com,x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^="Timeline:"][aria-label$="posts"]) div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"],>div>button))
