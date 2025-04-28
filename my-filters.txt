@@ -651,3 +651,6 @@ x.com##[data-testid="sidebarColumn"] [aria-label="Footer"]
 
 ! Twitter/X - Clean Timelines - See Only Tweets/Posts, No Inserts
 twitter.com,x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^="Timeline:"][aria-label$="posts"]) div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"],>div>button))
+
+! Apr 27, 2025 https://www.youtube.com live reactions
+www.youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
