@@ -654,3 +654,6 @@ twitter.com,x.com##:is([aria-label="Timeline: Your Home Timeline"],[aria-label^=
 
 ! Apr 27, 2025 https://www.youtube.com live reactions
 www.youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
+
+! k2s.cc video preview
+||k2s.cc/js/preview.js$script
