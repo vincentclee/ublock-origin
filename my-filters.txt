@@ -657,3 +657,8 @@ www.youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
 
 ! k2s.cc video preview
 ||k2s.cc/js/preview.js$script
+
+! Jul 24, 2024 https://ghe.coxautoinc.com
+ghe.coxautoinc.com##.js-notice.mb-3.color-border-default.rounded-2.border.overflow-hidden.position-relative
+
+reddit.com##span[data-part="advertise"]
