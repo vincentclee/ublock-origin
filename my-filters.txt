@@ -662,3 +662,7 @@ www.youtube.com##.yt-reaction-control-panel-overlay-view-model.style-scope
 ghe.coxautoinc.com##.js-notice.mb-3.color-border-default.rounded-2.border.overflow-hidden.position-relative
 
 reddit.com##span[data-part="advertise"]
+
+! May 9, 2025 https://www.youtube.com - important notifications
+www.youtube.com##yt-multi-page-menu-section-renderer:has(h2:has-text(Important))
+www.youtube.com###section-title > .yt-multi-page-menu-section-renderer.style-scope
