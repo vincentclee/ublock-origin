@@ -666,3 +666,6 @@ reddit.com##span[data-part="advertise"]
 ! May 9, 2025 https://www.youtube.com - important notifications
 !www.youtube.com##yt-multi-page-menu-section-renderer:has(h2:has-text(Important))
 !www.youtube.com###section-title > .yt-multi-page-menu-section-renderer.style-scope
+
+! May 9, 2025 https://www.youtube.com - chat money box
+www.youtube.com###right.style-scope.yt-live-chat-message-input-renderer
