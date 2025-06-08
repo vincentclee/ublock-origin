@@ -682,7 +682,10 @@ protected.to##.body-content.container > div.row:nth-of-type(1)
 *.openwidget.com
 
 ! May 22, 2025 https://www.delta.com
-www.delta.com##.idp-fast-action-banner-container
+!www.delta.com##.idp-fast-action-banner-container
 
 ! Jun 3, 2025 https://www.amazon.com
 www.amazon.com##.right-rail-top-content
+
+! Jun 8, 2025 https://www.delta.com - checkout credit card
+www.delta.com##.ng-star-inserted.right-rail-fab
