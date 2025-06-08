@@ -669,3 +669,20 @@ reddit.com##span[data-part="advertise"]
 
 ! May 9, 2025 https://www.youtube.com - chat money box
 www.youtube.com###right.style-scope.yt-live-chat-message-input-renderer
+
+! 2024-02-25 https://www.delta.com
+www.delta.com##idp-dynamic-banner
+
+! Apr 29, 2025 https://www.amazon.com
+www.amazon.com###desktop-dp-ilm_feature_div_01
+
+! May 4, 2025 http://protected.to
+protected.to##.body-content.container > div.row:nth-of-type(1)
+
+*.openwidget.com
+
+! May 22, 2025 https://www.delta.com
+www.delta.com##.idp-fast-action-banner-container
+
+! Jun 3, 2025 https://www.amazon.com
+www.amazon.com##.right-rail-top-content
