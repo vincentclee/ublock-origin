@@ -689,3 +689,15 @@ www.amazon.com##.right-rail-top-content
 
 ! Jun 8, 2025 https://www.delta.com - checkout credit card
 www.delta.com##.ng-star-inserted.right-rail-fab
+
+! 2024-02-25 https://travelsecure.chase.com
+travelsecure.chase.com##.marketing-banner-container
+
+! Jun 11, 2025 https://www.wsbtv.com
+www.wsbtv.com##.background_primary.relative_position
+
+! Jun 12, 2025 https://mail.google.com - google 1 upgrade
+mail.google.com##.I6agWe
+
+! Jun 22, 2025 https://alldebrid.com
+alldebrid.com###toolbar
