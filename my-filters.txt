@@ -701,3 +701,29 @@ mail.google.com##.I6agWe
 
 ! Jun 22, 2025 https://alldebrid.com
 alldebrid.com###toolbar
+
+*.connatix.com
+*.elements.video
+
+! Apr 15, 2025 https://www.wsbtv.com
+www.wsbtv.com##.background_primary.relative_position
+
+! May 13, 2025 https://coxauto.splunkcloud.com
+coxauto.splunkcloud.com##.single-global-banner
+
+*.viously.com
+
+! Jul 7, 2025 https://github.com
+github.com##.ChatInputBanners-module__banner--QlUDL
+github.com##section[aria-label="Notifications"]
+
+! Aug 21, 2025 ReviewJournal anti-adblock bypass
+||engage.reviewjournal.com/prod/review-journal/*.min.js$script
+||cdn.*.xyz/prod/review-journal/*.min.js$script,domain=reviewjournal.com
+||cdn.*.com/prod/review-journal/*.min.js$script,domain=reviewjournal.com
+||azurefd.net/*.min.js$script,domain=reviewjournal.com
+
+! Aug 21, 2025 https://www.iclarified.com
+www.iclarified.com##.footer_container
+www.iclarified.com##.trending_container
+www.iclarified.com##[id^="ad_"]
