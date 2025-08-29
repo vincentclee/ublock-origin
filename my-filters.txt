@@ -736,3 +736,6 @@ mail.google.com##.eJPjde
 
 ! Aug 28, 2025 https://www.reddit.com
 www.reddit.com##.w-full.masthead
+
+! Aug 28, 2025 https://alks.coxautoinc.com
+alks.coxautoinc.com##.announcement-banner
