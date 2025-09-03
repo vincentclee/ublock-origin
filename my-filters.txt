@@ -734,8 +734,8 @@ dcc.godaddy.com##.inline-table-banner
 ! Aug 25, 2025 https://mail.google.com - Order Summary
 mail.google.com##.eJPjde
 
-! Aug 28, 2025 https://www.reddit.com
-www.reddit.com##.w-full.masthead
+! Sep 3, 2025 https://www.reddit.com
+www.reddit.com##.search-hero
 
 ! Aug 28, 2025 https://alks.coxautoinc.com
 alks.coxautoinc.com##.announcement-banner
