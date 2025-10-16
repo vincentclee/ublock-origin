@@ -740,4 +740,5 @@ www.reddit.com##.search-hero
 ! Aug 28, 2025 https://alks.coxautoinc.com
 alks.coxautoinc.com##.announcement-banner
 
+! 2025-09-25 youtube hide show button
 youtube.com##.ytp-ce-hide-button-container
