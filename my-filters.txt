@@ -771,3 +771,6 @@ www.delta.com##.ng-star-inserted.td-flight-cards.td-trip-ancillary
 
 ! Oct 7, 2025 https://www.amazon.com
 www.amazon.com###hqpWrapper
+
+! reddit create post
+reddit.com##a#create-post
