@@ -742,3 +742,32 @@ alks.coxautoinc.com##.announcement-banner
 
 ! 2025-09-25 youtube hide show button
 youtube.com##.ytp-ce-hide-button-container
+
+! Aug 29, 2025 https://www.google.com - search sponsored
+www.google.com###atvcap
+
+! Sep 1, 2025 https://www.delta.com
+www.delta.com##idp-booking-banners
+
+! Sep 1, 2025 "Happening soon" / package tracking card
+mail.google.com##div[data-elevated-container-view-type="timely_bump"]
+
+! Sep 2, 2025 https://mail.google.com
+mail.google.com##.dgq5vc
+
+! Sep 13, 2025 https://www.delta.com
+www.delta.com###coBrandBanner
+
+! Sep 14, 2025 https://www.amazon.com
+www.amazon.com##.recommendation-vertical-section.a-section
+
+! Sep 16, 2025 From Reddit posts
+reddit.com##feed-announcement
+
+! Sep 26, 2025 https://www.delta.com
+www.delta.com##idp-hotel-rental.ng-star-inserted
+www.delta.com##idp-cars-rental.ng-star-inserted
+www.delta.com##.ng-star-inserted.td-flight-cards.td-trip-ancillary
+
+! Oct 7, 2025 https://www.amazon.com
+www.amazon.com###hqpWrapper
