@@ -774,3 +774,12 @@ www.amazon.com###hqpWrapper
 
 ! reddit create post
 reddit.com##a#create-post
+
+! Oct 21, 2025 https://www.youtube.com
+www.youtube.com##.ytThumbnailHoverOverlayToggleActionsViewModelHost
+
+! Oct 22, 2025 new youtube player
+youtube.com##.ytp-fullscreen-grid-expand-button
+youtube.com##.ytp-fullscreen-quick-actions
+youtube.com##.ytp-seek-overlay
+youtube.com##.ytp-bezel
