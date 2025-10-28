@@ -783,3 +783,4 @@ youtube.com##.ytp-fullscreen-grid-expand-button
 youtube.com##.ytp-fullscreen-quick-actions
 youtube.com##.ytp-seek-overlay
 youtube.com##.ytp-bezel
+youtube.com##.ytp-fullscreen-grid-expand-button
