@@ -784,3 +784,10 @@ youtube.com##.ytp-fullscreen-quick-actions
 youtube.com##.ytp-seek-overlay
 youtube.com##.ytp-bezel
 youtube.com##.ytp-fullscreen-grid-expand-button
+
+conferenceparties.com##tbody.row-hover > tr:has(td[colspan="5"] img)
+
+mail.google.com##div.yJ:nth-child(4):style(margin-bottom: 0px !important;)
+
+! Nov 15, 2025 https://www.tmz.com
+www.tmz.com##.social-media-container
