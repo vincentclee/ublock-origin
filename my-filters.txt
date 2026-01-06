@@ -791,3 +791,12 @@ mail.google.com##div.yJ:nth-child(4):style(margin-bottom: 0px !important;)
 
 ! Nov 15, 2025 https://www.tmz.com
 www.tmz.com##.social-media-container
+
+! Dec 15, 2025 https://conferenceparties.com
+conferenceparties.com##.column-last.column-narrow.column
+
+! Dec 24, 2025 https://secure.bankofamerica.com
+secure.bankofamerica.com##.pulse
+
+www.youtube.com##ytd-miniplayer:has(#premium-badges)
+www.youtube.com##.ytp-timely-actions-content
