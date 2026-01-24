@@ -800,3 +800,7 @@ secure.bankofamerica.com##.pulse
 
 www.youtube.com##ytd-miniplayer:has(#premium-badges)
 www.youtube.com##.ytp-timely-actions-content
+
+! Jan 9, 2026 orange outline
+reddit.com##reddit-search-large[show-ask-button]:remove-attr(show-ask-button)
+||www.redditstatic.com/shreddit/search-input-desktop-client-css$css,domain=reddit.com
