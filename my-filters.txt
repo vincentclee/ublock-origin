@@ -804,3 +804,8 @@ www.youtube.com##.ytp-timely-actions-content
 ! Jan 9, 2026 orange outline
 reddit.com##reddit-search-large[show-ask-button]:remove-attr(show-ask-button)
 ||www.redditstatic.com/shreddit/search-input-desktop-client-css$css,domain=reddit.com
+
+! Jan 25, 2026 https://weather.com - premium nag
+weather.com##.premium-merchandising-banner
+weather.com##[class*="SidebarNavigation--premiumLink"]
+weather.com##a[href*="/subscribe"]
