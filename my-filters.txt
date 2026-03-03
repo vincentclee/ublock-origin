@@ -809,3 +809,12 @@ reddit.com##reddit-search-large[show-ask-button]:remove-attr(show-ask-button)
 weather.com##.premium-merchandising-banner
 weather.com##[class*="SidebarNavigation--premiumLink"]
 weather.com##a[href*="/subscribe"]
+
+! Nov 3, 2025 https://conferenceparties.com
+conferenceparties.com##tbody.row-hover > tr:has(.a-single)
+
+! Jan 13, 2026 https://coxautoinc.sharepoint.com
+coxautoinc.sharepoint.com###spTopPlaceholder
+
+! Mar 3, 2026 https://www.iclarified.com
+www.iclarified.com###newsletter_section
