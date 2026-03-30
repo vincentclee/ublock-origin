@@ -820,3 +820,12 @@ coxautoinc.sharepoint.com###spTopPlaceholder
 www.iclarified.com###newsletter_section
 
 reddit.com##in-feed-community-recommendations
+
+! Suggested videos
+reddit.com##div[slot="recommendation-overlay"]
+
+! Mar 12, 2026 https://coxauto.service-now.com
+coxauto.service-now.com##.ng-scope.announcement-wrapper
+
+weather.com##[id^="WxuFooter-sidebar-"]
+weather.com##[data-region="sidebar"] div:has(> section:not([data-testid]):not(:has([data-testid])))
