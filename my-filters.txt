@@ -829,3 +829,9 @@ coxauto.service-now.com##.ng-scope.announcement-wrapper
 
 weather.com##[id^="WxuFooter-sidebar-"]
 weather.com##[data-region="sidebar"] div:has(> section:not([data-testid]):not(:has([data-testid])))
+
+! Mar 25, 2026 https://www.amazon.com
+www.amazon.com###desktop-dp-lpo_feature_div_01
+
+! subscription recommendations
+amazon.com##[id^="ee-pui-"]
