@@ -836,3 +836,6 @@ www.amazon.com###desktop-dp-lpo_feature_div_01
 
 ! subscription recommendations
 amazon.com##[id^="ee-pui-"]
+
+! google maps ai
+google.com##div[aria-label="Available search options for this area"]
