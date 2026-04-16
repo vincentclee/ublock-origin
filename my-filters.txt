@@ -839,3 +839,7 @@ amazon.com##[id^="ee-pui-"]
 
 ! google maps ai
 google.com##div[aria-label="Available search options for this area"]
+
+! Apr 13, 2026 https://gemini.google.com Google AI Ultra
+gemini.google.com##.g1-upsell-container
+gemini.google.com##.adv-upsell
