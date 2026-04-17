@@ -843,3 +843,10 @@ google.com##div[aria-label="Available search options for this area"]
 ! Apr 13, 2026 https://gemini.google.com Google AI Ultra
 gemini.google.com##.g1-upsell-container
 gemini.google.com##.adv-upsell
+
+! Twitter right sidebar
+x.com##[data-testid="news_sidebar"]:upward(1)
+x.com##h2:has-text(/^Live on X$/):upward(2)
+x.com##a[aria-label="Creator Studio"]
+x.com##aside[aria-label="Who to follow"]:upward(2)
+x.com##aside[aria-label="Subscribe to Premium"]:upward(2)
