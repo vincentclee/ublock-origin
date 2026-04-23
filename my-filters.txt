@@ -783,7 +783,6 @@ youtube.com##.ytp-fullscreen-grid-expand-button
 youtube.com##.ytp-fullscreen-quick-actions
 youtube.com##.ytp-seek-overlay
 youtube.com##.ytp-bezel
-youtube.com##.ytp-fullscreen-grid-expand-button
 
 conferenceparties.com##tbody.row-hover > tr:has(td[colspan="5"] img)
 
@@ -850,3 +849,15 @@ x.com##h2:has-text(/^Live on X$/):upward(2)
 x.com##a[aria-label="Creator Studio"]
 x.com##aside[aria-label="Who to follow"]:upward(2)
 x.com##aside[aria-label="Subscribe to Premium"]:upward(2)
+
+! Dec 6, 2025 https://wifi.delta.com
+wifi.delta.com##.active
+
+! Dec 25, 2025 https://www.keychron.com
+www.keychron.com###shopify-chat
+
+! Jan 11, 2026 https://www.tmz.com
+www.tmz.com##.sticky.ad-header-wrapper
+
+! Apr 5, 2026 https://www.amazon.com
+www.amazon.com###desktop-dp-ilm_feature_div_0
