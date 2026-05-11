@@ -861,3 +861,9 @@ www.tmz.com##.sticky.ad-header-wrapper
 
 ! Apr 5, 2026 https://www.amazon.com
 www.amazon.com###desktop-dp-ilm_feature_div_0
+
+! Apr 15, 2026 https://www.youtube.com
+www.youtube.com###donation-shelf
+
+! Hides all badges (Free, PG-13, etc.) under YouTube video titles
+youtube.com##ytd-watch-metadata ytd-badge-supported-renderer
