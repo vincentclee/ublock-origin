@@ -867,3 +867,6 @@ www.youtube.com###donation-shelf
 
 ! Hides all badges (Free, PG-13, etc.) under YouTube video titles
 youtube.com##ytd-watch-metadata ytd-badge-supported-renderer
+
+! May 21, 2026 https://www.reddit.com
+www.reddit.com###sticky-comment-composer-wrapper
