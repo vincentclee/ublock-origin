@@ -870,3 +870,10 @@ youtube.com##ytd-watch-metadata ytd-badge-supported-renderer
 
 ! May 21, 2026 https://www.reddit.com
 www.reddit.com###sticky-comment-composer-wrapper
+
+! May 21, 2026 Akamai Adaptive Media Player
+11alive.com##.video__docker_state_docked
+11alive.com##.watch-live
+
+! google ai https://blog.google/products-and-platforms/products/search/search-io-2026
+google.com##div[jscontroller="DyTeib"]
