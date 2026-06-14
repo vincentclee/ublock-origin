@@ -874,3 +874,9 @@ www.reddit.com###sticky-comment-composer-wrapper
 
 ! google ai https://blog.google/products-and-platforms/products/search/search-io-2026
 google.com##div[jscontroller="DyTeib"]
+
+! May 17, 2026 https://www.youtube.com
+www.youtube.com##.ytp-fullscreen-grid
+
+! Hides the Google One "Upgrade" storage button in Gmail
+mail.google.com##div[data-pep-id="global-pep-gmail"]
