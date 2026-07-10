@@ -880,3 +880,31 @@ www.youtube.com##.ytp-fullscreen-grid
 
 ! Hides the Google One "Upgrade" storage button in Gmail
 mail.google.com##div[data-pep-id="global-pep-gmail"]
+
+! Apr 26, 2026 https://www.amazon.com - Need anything else?
+www.amazon.com##.checkout-byg-desktop-container.a-container > .celwidget
+
+! May 14, 2026 https://www.amazon.com
+www.amazon.com###desktop-dp-lpo_feature_div_0
+www.amazon.com###nile-inline_feature_div
+
+! May 31, 2026 https://www.amazon.com - feedback survey button right side
+www.amazon.com###dpSimpleSurveyBtnContainer
+
+! Hide Amazon Everyday Essentials "Recommended for you" carousel
+amazon.com##div[class*="eeCarouselDesktopPercolate"]
+
+! Blocks all desktop Smart Wagon recommendation widgets globally
+amazon.com##div[data-card-metrics-id^="smart-wagon-card_desktop-smartwagon"]
+
+! Blocks the entire ad/recommendation grid on the Thank You page
+amazon.com##.advertismentContainer.typ-ad-container-a11y-css-class
+
+! Jun 28, 2026 https://maxfhr.com
+maxfhr.com##.css-1yemgte
+
+! https://www.reddit.com/r/firefox/comments/195jfqb/how_to_disable_sign_in_with_google_in_firefox/
+||accounts.google.com/gsi/*$xmlhttprequest,script,third-party
+
+! Hide Gemini disclaimer text while keeping the spacing
+gemini.google.com##hallucination-disclaimer p:style(visibility: hidden !important;)
