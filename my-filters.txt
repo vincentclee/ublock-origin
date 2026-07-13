@@ -908,3 +908,6 @@ maxfhr.com##.css-1yemgte
 
 ! Hide Gemini disclaimer text while keeping the spacing
 gemini.google.com##hallucination-disclaimer p:style(visibility: hidden !important;)
+
+! Hide GPC opt-out confirmation overlay on American Express
+americanexpress.com###user-consent-management-gpc-opt-out-confirmation-overlay
