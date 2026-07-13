@@ -876,7 +876,7 @@ www.reddit.com###sticky-comment-composer-wrapper
 google.com##div[jscontroller="DyTeib"]
 
 ! May 17, 2026 https://www.youtube.com
-www.youtube.com##.ytp-fullscreen-grid
+!www.youtube.com##.ytp-fullscreen-grid
 
 ! Hides the Google One "Upgrade" storage button in Gmail
 mail.google.com##div[data-pep-id="global-pep-gmail"]
