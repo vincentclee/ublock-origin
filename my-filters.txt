@@ -911,3 +911,18 @@ gemini.google.com##hallucination-disclaimer p:style(visibility: hidden !importan
 
 ! Hide GPC opt-out confirmation overlay on American Express
 americanexpress.com###user-consent-management-gpc-opt-out-confirmation-overlay
+
+! Hides the floating star feedback button on AWS pages
+aws.amazon.com##button[data-testid="feedback-button"]
+
+! Jun 24, 2026 https://www.cbsnews.com
+www.cbsnews.com##.nocontent.col-4
+
+! Hides the floating sponsor toast ad on pricepertoken.com
+pricepertoken.com##div.fixed.z-50:has-text(Sponsored)
+
+! Animated background
+luma.com##div.canvas.gradient-bg
+
+! Hide weather.com right ad/promo sidebar
+weather.com##aside[aria-label="Promotions"]
