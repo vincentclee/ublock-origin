@@ -926,3 +926,15 @@ luma.com##div.canvas.gradient-bg
 
 ! Hide weather.com right ad/promo sidebar
 weather.com##aside[aria-label="Promotions"]
+
+! Jul 8, 2026 https://www.asus.com
+www.asus.com###shadowRoot
+
+! Header - Ask Gemini icon
+mail.google.com##.Zmxtcf
+
+! Hide YouTube "Search with your voice" button
+youtube.com##button-view-model:has(button[aria-label="Search with your voice"])
+
+! Hide "Ask YouTube" button
+youtube.com##button-view-model:has(button[aria-label="Ask YouTube"])
