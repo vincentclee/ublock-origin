@@ -938,3 +938,66 @@ youtube.com##button-view-model:has(button[aria-label="Search with your voice"])
 
 ! Hide "Ask YouTube" button
 youtube.com##button-view-model:has(button[aria-label="Ask YouTube"])
+
+! Blocks the TikTok Live gifting container
+tiktok.com##div[data-e2e="gift-container"]
+
+! Blocks the Recommended LIVE streams container on TikTok
+tiktok.com##div[data-e2e="live-second-screen-container"]
+
+! Blocks the "Get Coins" button container to remove extra space
+tiktok.com##button[data-e2e="LivePage-GetCoin"]:upward(2)
+
+! Blocks banner overlays on TikTok Live
+tiktok.com##div[data-testid="live-room-banner-overlay"]
+
+! Blocks the left-side flying gift alerts and combo popups
+tiktok.com##div[class="w-400 absolute ltr:left-12 rtl:right-12"]
+
+! Blocks the "Following" and "Suggested LIVE creators" sidebar section on TikTok
+tiktok.com##[data-e2e="live-side-nav-channel"]:upward(2)
+
+! Blocks the bottom footer links and copyright section on TikTok
+tiktok.com##div:has(> div > h3:has-text(Company)):has(> div > span:has-text(TikTok))
+
+! Block intrusive Amex ad and redundant total
+delta.com##.right-rail-fab
+
+! Block Delta First Extra upsell banner
+delta.com##idp-booking-upsell
+
+! Block Terms and Conditions footer
+delta.com##idp-booking-footer
+
+! Block Amex monthly installments promo
+delta.com##.amex-promo-banner-wrapper
+
+! Block checkout legal messaging
+delta.com##idp-legal-messaging
+
+! Block Amex Trip Total monthly payment teaser
+delta.com##idp-amex-trip-total
+
+! Block floating Message Us chat bubble
+delta.com##.LPMcontainer
+
+! Block search results disclaimer info
+delta.com##idp-search-results-disclaimer-info
+
+! Block baggage allowance summary
+delta.com##idp-booking-baggage
+
+! Block Secure Flight informational text
+delta.com##.emergency_contact_for_all
+
+! Block Book Better banner and step indicator
+delta.com##.book-better
+
+! Block leftover "See terms below" text
+delta.com##p:has-text(See terms below.)
+
+! Block SkyMiles earnings estimator
+delta.com##idp-loyalty-mileage
+
+! Block 24-hour risk-free cancellation badge
+delta.com##idp-risk-free-cancellation
