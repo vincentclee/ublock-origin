@@ -1001,3 +1001,26 @@ delta.com##idp-loyalty-mileage
 
 ! Block 24-hour risk-free cancellation badge
 delta.com##idp-risk-free-cancellation
+
+! Disable exit-intent newsletter popup on pricepertoken.com (defuse mouseout handler)
+pricepertoken.com##+js(aeld, mouseout)
+
+! Block sponsored content on pricepertoken.com
+pricepertoken.com##a:has(> div span:has-text(Sponsored))
+pricepertoken.com##div.sticky:has-text(Sponsored)
+
+! Aug 27, 2026 https://www.reviewjournal.com
+www.reviewjournal.com##.fixed-ad-top
+www.reviewjournal.com##.no-padding.rj-container-fluid.widget-area
+
+! Delta Airlines - Hide Trip Insurance Upsell
+delta.com##idp-trip-insurance-ancillary
+
+! Delta Airlines - Hide Hotel Booking Ancillary
+delta.com##idp-hotel-ancillary
+
+! Delta Airlines - Hide Car Rental Ancillary
+delta.com##idp-car-ancillary
+
+! Delta Airlines - Hide Weather Widget
+delta.com##idp-weather-ancillary
