@@ -1024,3 +1024,9 @@ delta.com##idp-car-ancillary
 
 ! Delta Airlines - Hide Weather Widget
 delta.com##idp-weather-ancillary
+
+! Aug 31, 2026 https://coxautoinc-my.sharepoint.com
+coxautoinc-my.sharepoint.com##.swa-reactions-picker-container
+
+! Sep 14, 2026 https://www.amazon.com
+www.amazon.com###appleFamilyStripe_feature_div
