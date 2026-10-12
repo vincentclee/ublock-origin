@@ -1030,3 +1030,9 @@ coxautoinc-my.sharepoint.com##.swa-reactions-picker-container
 
 ! Sep 14, 2026 https://www.amazon.com
 www.amazon.com###appleFamilyStripe_feature_div
+
+! Hide GitHub organization profile README boxes
+github.com,ghe.coxautoinc.com##.Box:has(a[href*="/.github/"][href*="/profile/README.md"])
+
+! LinkedIn - Hide video subtitles / captions
+linkedin.com##.vjs-text-track-display
