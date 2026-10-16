@@ -1036,3 +1036,6 @@ github.com,ghe.coxautoinc.com##.Box:has(a[href*="/.github/"][href*="/profile/REA
 
 ! LinkedIn - Hide video subtitles / captions
 linkedin.com##.vjs-text-track-display
+
+! Hide ADS-B Exchange "ad blocker is on" popup (Freestar anti-adblock)
+globe.adsbexchange.com##+js(set, adBlockDetected, false)
