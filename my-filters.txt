@@ -732,7 +732,7 @@ www.iclarified.com##[id^="ad_"]
 dcc.godaddy.com##.inline-table-banner
 
 ! Aug 25, 2025 https://mail.google.com - Order Summary
-mail.google.com##.eJPjde
+!mail.google.com##.eJPjde
 
 ! Sep 3, 2025 https://www.reddit.com
 www.reddit.com##.search-hero
